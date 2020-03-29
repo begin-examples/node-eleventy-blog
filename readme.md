@@ -1,12 +1,5 @@
 $BADGE
 
-## Deploy your own
-
-[![Deploy to Begin](https://static.begin.com/deploy-to-begin.svg)](https://begin.com/apps/create?template=https://github.com/pchinjr/begin-eleventy-basic)
-
-Deploy your own clone of this app to Begin!
-
-
 ## Getting started
 
 - Install the dependencies: `npm install`
