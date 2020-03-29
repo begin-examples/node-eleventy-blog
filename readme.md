@@ -14,6 +14,7 @@ Deploy your own clone of this app to Begin!
 
 ## Set Environment Variables
 - Adding an environment variable in the Begin console, `ARC_STATIC_SPA=false`, will allow a proxy at API Gateway to serve static assets directly from the S3 bucket like a basic web server.
+- Check out the docs for [setting environment variables on Begin](https://docs.begin.com/en/getting-started/environments#overview).
 
 
 ## Reference
