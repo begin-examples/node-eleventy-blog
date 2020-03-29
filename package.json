@@ -1,0 +1,18 @@
+{
+  "name": "eleventy-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "eleventy",
+    "watch": "eleventy --serve",
+    "start": "npm run watch & ARC_STATIC_SPA=false  sandbox"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^0.10.0",
+    "@architect/sandbox": "^1.8.3"
+  }
+}
