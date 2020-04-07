@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-blog",
+  "name": "node-eleventy-blog",
   "version": "1.0.0",
   "description": "An example Eleventy blog",
   "scripts": {
