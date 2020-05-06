@@ -1,3 +1,5 @@
+<img src="https://static.begin.app/node-eleventy-blog/readme-banner.png" width="509">
+
 $BADGE
 
 ## Deploy your own
